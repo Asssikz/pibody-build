@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Breadboard friendly",
+        "Castellated Pads",
+        "Micro USB",
+        "WiFi",
+        "Bluetooth"
+    ],
+    "id": "rp2-pico-w-pibody",
+    "images": [
+        "rp2-pico-w.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "Pico W PiBody",
+    "thumbnail": "",
+    "url": "https://www.raspberrypi.com/products/raspberry-pi-pico/",
+    "vendor": "Pimoroni"
+} 
