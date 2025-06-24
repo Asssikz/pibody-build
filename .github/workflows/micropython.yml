@@ -18,8 +18,8 @@ jobs:
     strategy:
       matrix:
         include:
-        - name: picow
-          board: RPI_PICO_W
+        - name: picow_pibody
+          board: PICO_W_PIBODY
 
     env:
       # MicroPython version will be contained in github.event.release.tag_name for releases
